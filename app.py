@@ -68,7 +68,7 @@ PROJECTS = [
             "Full-stack expense management and budgeting application with local "
             "state handling and clean data visualization."
         ),
-        "tags": ["Python", "Flask", "Tailwind CSS", "Vanilla JS"],
+        "tags": ["Python", "Flask", "Tailwind CSS", "Supabase (PostgreSQL)", "Vanilla JS"],
         "github_url": "https://github.com/Brylle1501/expenses-tracker-web",
         "live_url": "https://github.com/Brylle1501/expenses-tracker-web",
         "icon": "wallet",

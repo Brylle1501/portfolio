@@ -14,7 +14,7 @@ A clean, modern, and production-ready Web Developer Portfolio website engineered
 
 ## 🚀 Featured Projects
 
-- **[Expenses Tracker](https://github.com/Brylle1501/expenses-tracker-web)**: Full-stack expense management and budgeting application with local state handling and clean data visualization (Python, Flask, Tailwind CSS, Vanilla JS).
+- **[Expenses Tracker](https://github.com/Brylle1501/expenses-tracker-web)**: Full-stack expense management and budgeting application with local state handling and clean data visualization (Python, Flask, Tailwind CSS, Supabase (PostgreSQL), Vanilla JS).
 - **[ElderCare Prototype](https://github.com/noelbanac/eldercare_rcfms_v2)**: Smart healthcare monitoring assistance prototype designed for senior support and real-time tracking logic (Dart / Flutter, Python, PLpgSQL, JavaScript).
 
 ## 🛠️ Local Development
