@@ -7,7 +7,9 @@ app = Flask(__name__)
 PROFILE = {
     "name": "Kent Brylle L. Alvarez",
     "role": "Web Developer / IT Specialist",
-    "tagline": "Crafting clean, responsive web architectures and reliable digital solutions.",
+    "domain": "kentbrylle.dev",
+    "canonical_url": "https://kentbrylle.dev",
+    "tagline": "kentbrylle.dev — Professional Web Development & IT Engineering Portfolio.",
     "location": "Canocotan, Tagum City, Davao del Norte, Philippines",
     "phone": "+63 951-154-2848",
     "phone_raw": "+639511542848",

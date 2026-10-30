@@ -36,7 +36,11 @@ A clean, modern, and production-ready Web Developer Portfolio website engineered
    ```
    Open `http://127.0.0.1:5000` in your browser.
 
-## 🌐 Deployment on Vercel
+## 🌐 Live Production & Deployment
+
+- **Official Portfolio Domain**: [https://kentbrylle.dev](https://kentbrylle.dev)
+- **Vercel Production URL**: [https://kentbrylle-dev.vercel.app](https://kentbrylle-dev.vercel.app)
+- **Vercel Primary Alias**: [https://portfolio-vibe-coder6.vercel.app](https://portfolio-vibe-coder6.vercel.app)
 
 The project is structured with `vercel.json` for seamless deployment on Vercel:
 
@@ -51,3 +55,4 @@ vercel --prod
 - **Phone**: +63 951-154-2848
 - **Email**: kentbryllealvarez@gmail.com
 - **GitHub**: [github.com/Brylle1501](https://github.com/Brylle1501)
+
